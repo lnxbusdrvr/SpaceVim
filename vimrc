@@ -26,3 +26,6 @@ if 1
     execute 'source' fnamemodify(expand('<sfile>'), ':h').'/main.vim'
 endif
 " vim:set et sw=2
+set termencoding=latin1
+set encoding=latin1
+set fileencoding=latin1
