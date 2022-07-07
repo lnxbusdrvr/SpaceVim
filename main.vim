@@ -8,7 +8,8 @@
 
 " set default encoding to utf-8
 " Let Vim use utf-8 internally, because many scripts require this
-set encoding=utf-8
+"set encoding=utf-8
+set encoding=latin1
 scriptencoding utf-8
 
 " Enable nocompatible
